@@ -1,0 +1,9 @@
+C:\Users\Carlos Espinoza\Desktop\MVC Entity\DatabaseProject\bin\Debug\DatabaseProject.dacpac
+C:\Users\Carlos Espinoza\Desktop\MVC Entity\DatabaseProject\bin\Debug\DatabaseProject.dll
+C:\Users\Carlos Espinoza\Desktop\MVC Entity\DatabaseProject\bin\Debug\DatabaseProject.pdb
+C:\Users\Carlos Espinoza\Desktop\MVC Entity\DatabaseProject\obj\Debug\Model.xml
+C:\Users\Carlos Espinoza\Desktop\MVC Entity\DatabaseProject\obj\Debug\refactor.xml
+C:\Users\Carlos Espinoza\Desktop\MVC Entity\DatabaseProject\obj\Debug\postdeploy.sql
+C:\Users\Carlos Espinoza\Desktop\MVC Entity\DatabaseProject\obj\Debug\predeploy.sql
+C:\Users\Carlos Espinoza\Desktop\MVC Entity\DatabaseProject\obj\Debug\DatabaseProject.dll
+C:\Users\Carlos Espinoza\Desktop\MVC Entity\DatabaseProject\obj\Debug\DatabaseProject.pdb

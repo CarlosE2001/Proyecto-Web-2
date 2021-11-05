@@ -7,6 +7,7 @@ using System.Web.Mvc;
 namespace ProyectoMVC.Controllers {
     public class HomeController : Controller {
         public ActionResult Index() {
+            ViewBag.miNombre = "Carlos";
             return View();
         }
 
