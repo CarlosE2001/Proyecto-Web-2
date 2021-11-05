@@ -28,4 +28,11 @@
     <Property Name="ParentElementType" Value="SqlTable" />
     <Property Name="NewName" Value="IdPublicacion" />
   </Operation>
+  <Operation Name="Rename Refactor" Key="e0603a92-411a-4937-8e44-235fa8632864" ChangeDateTime="11/05/2021 03:12:40" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+    <Property Name="ElementName" Value="[dbo].[Categoria].[Categoria]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[Categoria]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="NombreCategoria" />
+  </Operation>
 </Operations>
