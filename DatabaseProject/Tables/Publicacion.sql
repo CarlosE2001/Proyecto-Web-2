@@ -1,7 +1,7 @@
 ﻿CREATE TABLE [dbo].[Publicacion]
 (
 	[Id] INT NOT NULL PRIMARY KEY, 
-    [Fecha] DATE NOT NULL, 
+    [Fecha] NVARCHAR(100) NOT NULL, 
     [Titulo] NVARCHAR(100) NOT NULL, 
     [LinkImg] NVARCHAR(500) NOT NULL, 
     [Resumen] NVARCHAR(1000) NOT NULL, 

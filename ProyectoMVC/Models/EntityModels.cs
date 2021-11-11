@@ -31,13 +31,14 @@ namespace ProyectoMVC.Models
         public Publicacion Publicacion { get; set; }
         [Key] [ForeignKey("Publicacion")]
         public int IdPublicacionPKFK { get; set; }
+        public string Texto { get; set; }
     }
 
     [Table("Publicacion")]
     public class Publicacion { 
         [Key]
         public int Id { get; set; }
-        public DateTime Fecha { get; set; }
+        public string Fecha { get; set; }
         public string Titulo { get; set; }
         public string LinkImg { get; set; }
         public string Resumen { get; set; }

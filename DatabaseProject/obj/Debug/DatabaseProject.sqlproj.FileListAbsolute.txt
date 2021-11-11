@@ -16,3 +16,8 @@ C:\Users\sebas\Source\Repos\Proyecto-Web-2\DatabaseProject\obj\Debug\postdeploy.
 C:\Users\sebas\Source\Repos\Proyecto-Web-2\DatabaseProject\obj\Debug\predeploy.sql
 C:\Users\sebas\Source\Repos\Proyecto-Web-2\DatabaseProject\obj\Debug\DatabaseProject.dll
 C:\Users\sebas\Source\Repos\Proyecto-Web-2\DatabaseProject\obj\Debug\DatabaseProject.pdb
+C:\Users\sebas\Source\Repos\ProyectoWeb2\DatabaseProject\bin\Debug\DatabaseProject.dacpac
+C:\Users\sebas\Source\Repos\ProyectoWeb2\DatabaseProject\bin\Debug\DatabaseProject.dll
+C:\Users\sebas\Source\Repos\ProyectoWeb2\DatabaseProject\bin\Debug\DatabaseProject.pdb
+C:\Users\sebas\Source\Repos\ProyectoWeb2\DatabaseProject\obj\Debug\DatabaseProject.dll
+C:\Users\sebas\Source\Repos\ProyectoWeb2\DatabaseProject\obj\Debug\DatabaseProject.pdb
